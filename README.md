@@ -47,7 +47,8 @@ The filtered signal from the FPGA shows that the largest peak is at **11 Hz**, c
 ---
 
 ## Single-Sided FFT of Filtered Verilog Signal
-<img width="748" height="391" alt="FFT Filtered Verilog" src="https://github.com/user-attachments/assets/ff160156-450e-4c25-99d7-7a824edfd004" />
+<img width="747" height="372" alt="image" src="https://github.com/user-attachments/assets/2f27f507-58d0-4d18-a2a4-aac09690caa6" />
+
 
 The FFT of the filtered Verilog signal confirms the noise has been significantly reduced, and the main frequency component is preserved.
 
